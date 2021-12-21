@@ -31,6 +31,7 @@ SIL Fonts | Yes | Yes | Yes | https://software.sil.org/fonts/ | Free fonts that 
 Coding Fonts on CSS Tricks | Yes | Yes | Usually yes | https://coding-fonts.css-tricks.com/ | All free to use, but some are paid for commercial use
 Bitmap Fonts | Yes | ??? | No | https://github.com/robhagemans/bitmap-fonts | Collection
 Hoard of Bitfonts | Yes | ??? | No | https://github.com/robhagemans/hoard-of-bitfonts | Collection
+GGBot | No | No | No | https://ggbot.itch.io/ | None
 
 # Special Mentions
 Name | Purpose | Free or Affordable | Website
