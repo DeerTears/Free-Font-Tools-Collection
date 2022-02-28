@@ -32,6 +32,7 @@ Coding Fonts on CSS Tricks | Yes | Yes | Usually yes | https://coding-fonts.css-
 Bitmap Fonts | Yes | ??? | No | https://github.com/robhagemans/bitmap-fonts | Collection
 Hoard of Bitfonts | Yes | ??? | No | https://github.com/robhagemans/hoard-of-bitfonts | Collection
 GGBot | No | No | No | https://ggbot.itch.io/ | None
+dsg4 extra | No | Yes | No | http://www.dsg4.com/04/extra/bitmap/index.html | Only tiny bitmap fonts
 
 # Special Mentions
 Name | Purpose | Free or Affordable | Website
